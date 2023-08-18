@@ -1,5 +1,0 @@
-{{#user}
-Name: Sakthivel B
-Skills: Python, Django, HTML, CSS, JS, React.js, SQL, MySQL
-Email: sakthi031001@gmail.com
-{{/user}}
